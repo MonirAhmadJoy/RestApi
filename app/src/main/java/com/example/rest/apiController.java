@@ -6,7 +6,7 @@ import retrofit2.converter.gson.GsonConverterFactory;
 
 public class apiController
 {
-    private static final String url="http://192.168.43.110/api/";
+    private static final String url="http://IPv4 address/api/";
     private static apiController clientobject;
     private static Retrofit retrofit;
 
